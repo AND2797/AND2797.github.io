@@ -22,12 +22,12 @@ Work experience
 ======
 * **Research Assitant** _June 2020_*
    *[_Integrated Design Innovation Group_](https://www.cmu.edu/me/idig/)
-     * Working on fine-grained image classification and learning mid-level latent representations for identifying shape grammar in             products.
-     * Exploring multi-attention models, discriminative filter banks, recurrant neural networks and weakly supervised learning models.
+      * Working on fine-grained image classification and learning mid-level latent representations for identifying shape grammar in             products.
+      * Exploring multi-attention models, discriminative filter banks, recurrant neural networks and weakly supervised learning models.
 * **Research Assistant** _September 2019_*
    *[_Computational Engineering & Robotics Laboratory, CMU_](http://www.andrew.cmu.edu/user/shimada/)
-     * Leading the development of a robotic perception module using stereo-cameras for automatic localization of architectural i               installations (windows, frames) in a construction site.
-     * Utilizing structure from motion, multi-view geometry and active light stereopsis. 
+      * Leading the development of a robotic perception module using stereo-cameras for automatic localization of architectural i               installations (windows, frames) in a construction site.
+      * Utilizing structure from motion, multi-view geometry and active light stereopsis. 
 * **Intern** _May 2018_
   *[_Defence Research & Development Organization](https://www.drdo.gov.in/labs-and-establishments/laser-science-technology-centre-lastec)
     * Worked on the design of a dual-axis self stabilized gimbal for a vehicle mounted laser for remote ordinance disposal.
