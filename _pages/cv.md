@@ -12,6 +12,10 @@ redirect_from:
 Education
 ======
 * M.S  in Computational Design & Manufacturing, Carnegie Mellon University, 2020
+  * 10-601 : Machine Learning 
+  * 15-513 : Computer Systems
+  * 16-720 : Computer Vision
+  * 16-831 : Statistical Techniques in Robotics
 * B.S. in Mechanical Engineering, Vellore Institute of Technology, 2019
 
 Work experience
