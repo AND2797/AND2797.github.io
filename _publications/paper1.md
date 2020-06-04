@@ -2,7 +2,7 @@
 title: "Thermal buckling behaviour of variable stiffness laminated composite plates"
 collection: publications
 permalink: /publication/paper1.md
-excerpt: 'This paper uses finite element approach based on first order shear deformation theory to study buckling in novel variable stiffness composites.'
+excerpt: 'G. Manickam, A. Bharath, A. N. Das, A. Chandra, and P. Barua, “Thermal buckling behaviour of variable stiffness laminated composite plates,” Mater. Today Commun., vol. 16, no. May, pp. 142–151, 2018.'
 ---
 **Abstract**: _Here, the thermal buckling behaviour of variable stiffness laminated composite plates subjected to thermal loads
 is numerically studied employing finite element approach based on first-order shear deformation theory.
