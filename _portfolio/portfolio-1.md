@@ -1,6 +1,6 @@
 ---
 title: 3-D Reconstruction from 2 View Geometry
-excerpt: "Implementation of 3-D Reconstruction algorithm given a pair of calibrated, stereo-rectified images. 1<br/><img src='/images/500x300.png'>"
+excerpt: "Implementation of 3-D Reconstruction algorithm given a pair of calibrated, stereo-rectified images.<br/><img src='https://i.imgur.com/3ZHobbK.png'>"
 collection: Portfolio
 ---
 
