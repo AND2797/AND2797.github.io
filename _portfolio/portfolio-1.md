@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 2"
+title: 3-D Reconstruction from 2 View Geometry
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
