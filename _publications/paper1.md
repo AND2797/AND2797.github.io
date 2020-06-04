@@ -3,7 +3,7 @@ title: "Thermal buckling behaviour of variable stiffness laminated composite pla
 collection: publications
 permalink: /publications/paper1
 date: 2018-1-01
-venue: 'Materials Today Communication'
+venue: 'Materials Today Communications'
 excerpt: '_G. Manickam, A. Bharath, **D. Aditya Narayan**, A. Chandra, and P. Barua, “Thermal buckling behaviour of variable stiffness laminated composite plates,” Mater. Today Commun., vol. 16, no. May, pp. 142–151, 2018._'
 ---
 **Abstract**: _Here, the thermal buckling behaviour of variable stiffness laminated composite plates subjected to thermal loads
