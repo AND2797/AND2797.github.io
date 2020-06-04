@@ -26,7 +26,7 @@ Work experience
       * Exploring multi-attention models, discriminative filter banks, recurrant neural networks and weakly supervised learning models.
 * **Research Assistant** _September 2019_*
    * [_Computational Engineering & Robotics Laboratory, CMU_](http://www.andrew.cmu.edu/user/shimada/)
-      * Leading the development of a robotic perception module using stereo-cameras for automatic localization of architectural i               installations (windows, frames) in a construction site.
+      * Leading the development of a robotic perception module using stereo-cameras for automatic localization of architectural               installations (windows, frames) in a construction site.
       * Utilizing structure from motion, multi-view geometry and active light stereopsis. 
 * **Intern** _May 2018_
   * [_Defence Research & Development Organization_](https://www.drdo.gov.in/labs-and-establishments/laser-science-technology-centre-lastec)
