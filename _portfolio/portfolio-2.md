@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Optical Character Recognition"
+excerpt: "A simple Optical Character Recognition software that clusters and extracts letters from a raw image and evaluates them using a Convolution Neural Network<br/><img src='https://github.com/AND2797/Optical_Character_Recognition-/blob/master/Output.png'>"
 collection: portfolio
 ---
 
