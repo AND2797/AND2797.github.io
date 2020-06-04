@@ -29,7 +29,7 @@ Work experience
       * Leading the development of a robotic perception module using stereo-cameras for automatic localization of architectural i               installations (windows, frames) in a construction site.
       * Utilizing structure from motion, multi-view geometry and active light stereopsis. 
 * **Intern** _May 2018_
-  * [_Defence Research & Development Organization](https://www.drdo.gov.in/labs-and-establishments/laser-science-technology-centre-lastec)
+  * [_Defence Research & Development Organization_](https://www.drdo.gov.in/labs-and-establishments/laser-science-technology-centre-lastec)
     * Worked on the design of a dual-axis self stabilized gimbal for a vehicle mounted laser for remote ordinance disposal.
     * Designed in SolidWorks and FEM validation for vibration and stresses using ANSYS
 * **Intern** _June 2017_
