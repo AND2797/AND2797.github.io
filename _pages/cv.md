@@ -23,7 +23,7 @@ Work experience
 * **Research Assistant** _June 2020_*
    * [_Integrated Design Innovation Group, CMU_](https://www.cmu.edu/me/idig/)
       * Working on fine-grained image classification and learning mid-level latent representations for identifying shape grammar in             products.
-      * Exploring multi-attention models, discriminative filter banks, recurrant neural networks and weakly supervised learning models.
+      * Exploring multi-attention models, discriminative filter banks, recurrent neural networks and weakly supervised learning models.
       * **Supported by Summer Graduate Research Fellowship Grant.**
 * **Research Assistant** _September 2019_*
    * [_Computational Engineering & Robotics Laboratory, CMU_](http://www.andrew.cmu.edu/user/shimada/)
