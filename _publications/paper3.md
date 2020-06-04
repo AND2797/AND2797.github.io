@@ -2,6 +2,8 @@
 title: "Investigation of thermo-elastic buckling of variable stiffness laminated composite shells using finite element approach based on higher-order theory"
 collection: publications
 permalink: /publication/paper3
+date: 2019-1-01
+venue: 'Composite Structures'
 excerpt: '_**D.,Aditya Narayan**, Ganapathi, M., Pradyumna, B., and Haboussi, M., 2019, “Investigation of Thermo-Elastic Buckling of Variable Stiffness Laminated Composite Shells Using Finite Element Approach Based on Higher-Order Theory,” Compos. Struct., 211(December 2018), pp. 24–40._'
 ---
 
