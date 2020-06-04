@@ -1,6 +1,6 @@
 ---
 title: "Optical Character Recognition"
-excerpt: "A simple Optical Character Recognition software that identifies alphabet and numbers from an image and evaluates them using a Convolution Neural Network.<br/><img src='https://imgur.com/a/CtA2ymk'>"
+excerpt: "A simple Optical Character Recognition software that identifies alphabet and numbers from an image and evaluates them using a Convolution Neural Network.<br/><img src='https://i.imgur.com/UtjhcXp.png'>"
 collection: portfolio
 ---
 
