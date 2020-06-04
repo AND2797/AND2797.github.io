@@ -12,10 +12,10 @@ redirect_from:
 Education
 ======
 * M.S  in Computational Design & Manufacturing, Carnegie Mellon University, 2020
-  * 10-601 : Machine Learning 
-  * 15-513 : Computer Systems
-  * 16-720 : Computer Vision
-  * 16-831 : Statistical Techniques in Robotics
+  * 10-601 : [Machine Learning](http://www.cs.cmu.edu/~mgormley/courses/10601/) 
+  * 15-513 : [Computer Systems](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f19/www/syllabus/syllabus.pdf)
+  * 16-720 : [Computer Vision](http://ci2cv.net/16720b/)
+  * 16-831 : [Statistical Techniques in Robotics](https://AND2797.github.io/files/1.1_Logistics.pdf)
 * B.S. in Mechanical Engineering, Vellore Institute of Technology, 2019
 
 Work experience
