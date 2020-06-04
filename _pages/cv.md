@@ -53,4 +53,5 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+<br/><br/><br/>
 [**Download One Page Resume**](https://AND2797.github.io/files/Aditya_Resume.pdf)
