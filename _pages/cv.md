@@ -16,7 +16,7 @@ Education
   * 15-513 : [Computer Systems](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f19/www/syllabus/syllabus.pdf)
   * 16-720 : [Computer Vision](http://ci2cv.net/16720b/)
   * 16-831 : [Statistical Techniques in Robotics](https://AND2797.github.io/files/1.1_Logistics.pdf)
-* B.S. in Mechanical Engineering, Vellore Institute of Technology, 2019
+* B.Tech in Mechanical Engineering, Vellore Institute of Technology, 2019
 
 Work experience
 ======
