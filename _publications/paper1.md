@@ -7,6 +7,6 @@ paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S23524928183011
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://AND2797.github.io/files/1-s2.0-S2352492818301119-main.pdf)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
