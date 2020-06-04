@@ -20,10 +20,12 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Intern** _June 2017_
+  * [_Aeronautical Development Agency_](https://www.ada.gov.in/)
+    * Developed an algorithm based on multivariable regression to predict structural failure in fighter aircraft based on
+      data from previous sorties using MATLAB.
+    * Modelled the output (strain) in terms of variables like G-Force, Yaw, Roll and Pitch angles and rates.
+    * Achieved close to 96% accuracy on th e test data set.
 
 * Fall 2015: Research Assistant
   * Github University
