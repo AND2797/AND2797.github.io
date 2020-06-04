@@ -21,7 +21,7 @@ Education
 Work experience
 ======
 * **Research Assitant** _June 2020_*
-   * [_Integrated Design Innovation Group_](https://www.cmu.edu/me/idig/)
+   * [_Integrated Design Innovation Group, CMU_](https://www.cmu.edu/me/idig/)
       * Working on fine-grained image classification and learning mid-level latent representations for identifying shape grammar in             products.
       * Exploring multi-attention models, discriminative filter banks, recurrant neural networks and weakly supervised learning models.
 * **Research Assistant** _September 2019_*
