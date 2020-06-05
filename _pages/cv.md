@@ -38,7 +38,7 @@ Work experience
     * Developed an algorithm based on multivariable regression to predict structural failure in fighter aircraft based on
       data from previous sorties using MATLAB.
     * Modelled the output (strain) in terms of variables like G-Force, Yaw, Roll and Pitch angles and rates.
-    * Achieved close to 96% accuracy on th e test data set.
+    * Achieved close to 96% accuracy on the test data set.
   
 Skills
 ======
