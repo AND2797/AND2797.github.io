@@ -5,13 +5,6 @@ main:
       
   - title: "Projects"
     url: /portfolio/
-    sublinks:
-      - title: By Tag
-        url: /tags/
-      - title: By Category
-        url: /categories/
-      - title: By Year
-        url: /year-archive/
     
   - title: "Curriculum Vitae"
     url: /cv/
