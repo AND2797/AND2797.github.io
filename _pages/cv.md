@@ -54,4 +54,4 @@ Publications
   {% endfor %}</ul>
 
 <br/><br/><br/>
-[**Download One Page Resume**](https://AND2797.github.io/files/Aditya_Resume.pdf)
+[**Download One Page Resume**](https://AND2797.github.io/files/Aditya_Resume_SWE.pdf)
