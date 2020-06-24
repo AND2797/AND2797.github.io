@@ -10,6 +10,6 @@ redirect_from:
 
 About Me
 ======
-I am a graduate student in the Mechanical Engineering department at Carnegie Mellon University. My primary research interests are in Robotics (Perception & Learning) and Computing. I am interested in problems pertaining to structure from motion, pose estimation, and recognition. I am also interested in applications of Machine Learning and Computer Vision in Mechanical, Materials & Product Engineering.
+I am a graduate student in the Mechanical Engineering department at Carnegie Mellon University. My primary research interests are in Robotics (Perception & Learning) and Computing. I am interested in problems pertaining to structure from motion, pose estimation, and detection. I'm also interested in interfaces of Computer Vision with other fields of Engineering. 
 
-Prior to starting at Carnegie Mellon I worked on developing mathematical models for numerical analyses of mechanical behaviour for novel variable stiffness composite materials using finite element modelling.
+Prior to starting at Carnegie Mellon I worked on developing mathematical models for numerical analyses of mechanical behaviour for novel variable stiffness composite materials using finite element modelling, some of our work resulted in a couple of publications.
